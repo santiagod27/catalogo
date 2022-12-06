@@ -1,0 +1,11 @@
+1) Clonamos proyecto con: git clone + ruta
+
+2) Vemos el estado de un proyecto con: git status
+
+
+3)Subir archivos
+1. Para agregar cambios:
+git add + archivo o git add . (agregas todos los archivos)
+2. empaquetar los nuevos archivos para subir:
+git commit -m + "descripción"
+3. subir: git push
