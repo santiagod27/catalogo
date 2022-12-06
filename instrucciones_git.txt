@@ -1,11 +1,31 @@
-1) Clonamos proyecto con: git clone + ruta
+Comandos básicos para trabajar con GIT
 
-2) Vemos el estado de un proyecto con: git status
+1) Clonamos proyecto con: 
+git clone + ruta
 
+2) Vemos el estado de un proyecto con: 
+git status
+
+---------------------------------------------------------------
 
 3)Subir archivos
 1. Para agregar cambios:
-git add + archivo o git add . (agregas todos los archivos)
+git add + archivo   o    git add . (agregas todos los archivos)
 2. empaquetar los nuevos archivos para subir:
 git commit -m + "descripción"
 3. subir: git push
+
+4) Traer cambios remotos:
+git pull
+
+5) Deshacer cambios:
+git checkout + nombre del archivo
+
+6)Crear nueva rama y moverse a ella:
+git checkout -b + Nombre nueva rama
+
+7) Para subir en la nueva rama:
+git push + origin + nombre de la rama
+
+8) Para moverse a la nueva rama:
+git checkout + nombre de rama
