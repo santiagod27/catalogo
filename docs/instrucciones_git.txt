@@ -1,3 +1,7 @@
+QUEDE EN 1:39 PW DJANGO APPS
+
+
+
 Comandos básicos para trabajar con GIT
 
 1) Clonamos proyecto con: 
